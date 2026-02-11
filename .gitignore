@@ -1,0 +1,67 @@
+# Environment variables
+.env
+.env.local
+*.env
+uv.lock
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data and experiments
+data/downloads/
+data/processed/
+# Also ignore data folders nested anywhere (e.g., src/data/processed)
+**/data/downloads/
+**/data/processed/
+logs/
+# *.jsonl
+# *.json
+# *.csv
+
+# Model caches
+cache/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Credentials and API keys
+secrets/
+credentials/
