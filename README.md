@@ -110,4 +110,6 @@ Trained models, large indices, and external datasets are not included.
 
 This is a semester project for CS 646 Information Retrieval at UMass Amherst.
 
-For full experimental details, architectural diagrams, and discussion of limitations, please refer to **CASE Report.pdf**.
+For full experimental details, architectural diagrams, and discussion of limitations, please refer to the report.
+📄 **Report:** [Download the full project report (PDF)](paper/CASE_Report.pdf)
+
